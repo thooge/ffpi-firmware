@@ -40,6 +40,9 @@ msgstr ""
 msgid "gluon-luci-node-role:role:node"
 msgstr "Normal Node"
 
+msgid "gluon-luci-node-role:role:temp"
+msgstr "Node not available 24/7"
+
 msgid "gluon-luci-node-role:role:mobile"
 msgstr "Mobile Node"
 

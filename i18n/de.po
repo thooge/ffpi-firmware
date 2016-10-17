@@ -44,6 +44,9 @@ msgstr ""
 msgid "gluon-luci-node-role:role:node"
 msgstr "Normaler Knoten"
 
+msgid "gluon-luci-node-role:role:temp"
+msgstr "Knoten nicht 24/7 verfügbar"
+
 msgid "gluon-luci-node-role:role:mobile"
 msgstr "Mobiler Knoten"
 
