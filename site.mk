@@ -113,4 +113,4 @@ GLUON_PRIORITY ?= 0
 GLUON_LANGS ?= en de
 
 # Enable autoupdater
-GLUON_BRANCH := stable
+export GLUON_BRANCH := stable
