@@ -54,3 +54,6 @@ msgstr "Service Node"
 
 msgid "gluon-luci-node-role:role:test"
 msgstr "Test Node"
+
+msgid "gluon-luci-node-role:role:hidden"
+msgstr "Hidden Node"

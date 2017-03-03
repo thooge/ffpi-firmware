@@ -58,3 +58,6 @@ msgstr "Knoten für Dienste"
 
 msgid "gluon-luci-node-role:role:test"
 msgstr "Knoten für Tests"
+
+msgid "gluon-luci-node-role:role:hidden"
+msgstr "Unsichtbarer Knoten"
